@@ -1,5 +1,5 @@
 <h1 style="color: #2c3e50; font-size: 36px; font-weight: bold; text-align: center; padding: 20px; background-color: #ecf0f1; border-bottom: 4px solid #3498db;">
-  Open Data Lakehouse: A Reference Framework
+  The Modern Data Architecture Reference Framework: Data Mesh, Lakehouse & Beyond
 </h1>
 
 <h2 style="color: #2c3e50; font-size: 28px; font-weight: bold; margin-top: 30px; border-bottom: 2px solid #3498db; padding-bottom: 10px;">
