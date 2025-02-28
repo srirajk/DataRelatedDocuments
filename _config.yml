@@ -1,0 +1,8 @@
+theme: minima
+title: Data Related Documents
+description: Hosting Markdown with Jekyll
+defaults:
+  - scope:
+      path: ""
+    values:
+      permalink: /ModernDataArchReferenceFramework/
